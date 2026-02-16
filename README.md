@@ -262,4 +262,5 @@ body {
 }
 
 ## OUT PUT :
-![Day-6 Output](day-6/img/day-6-output.png)
+![Day-6 Output](img/day-6-output.png)
+
